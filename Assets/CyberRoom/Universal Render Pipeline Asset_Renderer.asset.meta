@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef46f2fe73c33e049b9d048477381f6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263393
+  packageName: cyberpunk - Cyber Room (URP)
+  packageVersion: 1.0
+  assetPath: Assets/CyberRoom/Universal Render Pipeline Asset_Renderer.asset
+  uploadId: 608475
