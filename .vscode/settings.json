@@ -1,0 +1,26 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "cSpell.language": "en,es",
+    "cSpell.words": [
+        "arbol",
+        "AVL",
+        "neurona",
+        "neuronas",
+        "toxicidad",
+        "encriptado",
+        "desbalance",
+        "autorrotacion",
+        "rotacion",
+        "rotaciones",
+        "implante",
+        "overclock",
+        "hackeo",
+        "parche",
+        "parcheo",
+        "subarbol",
+        "auditoria"
+    ],
+    "files.exclude": {
+        "**/__pycache__": true
+    }
+}

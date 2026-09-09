@@ -1,0 +1,178 @@
+2026-09-09 15:25:11 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona b650bf7e (Tox: 30, Enc: False) - 'Msg 1'
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona f5b3352c (Tox: 20, Enc: True) - 'Msg 2'
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona 3e4364e5 (Tox: 10, Enc: False) - 'Msg 3'
+2026-09-09 15:25:11 | WARNING  | DESBALANCE DETECTADO | Neurona b650bf7e en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:25:11 | INFO     | [HACKEO EXITOSO] Neurona b650bf7e reparada con LL. Combo: 1
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona 62c16f82 (Tox: 40, Enc: False) - 'Msg 4'
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona 79c6eb92 (Tox: 50, Enc: True) - 'Msg 5'
+2026-09-09 15:25:11 | WARNING  | DESBALANCE DETECTADO | Neurona f5b3352c en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:25:11 | INFO     | [HACKEO EXITOSO] Neurona f5b3352c reparada con RR. Combo: 2
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona a2e9e7bc (Tox: 60, Enc: False) - 'Msg 6'
+2026-09-09 15:25:11 | WARNING  | DESBALANCE DETECTADO | Neurona 62c16f82 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona 2737c094 (Tox: 70, Enc: False) - 'Msg 7'
+2026-09-09 15:25:11 | WARNING  | DESBALANCE DETECTADO | Neurona 79c6eb92 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:25:11 | INFO     | [OVERCLOCK ACTIVADO] Racha de 3 aciertos. Jugador con ventaja temporal.
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona 10d53c58 (Tox: 80, Enc: False) - 'Msg 8'
+2026-09-09 15:25:11 | WARNING  | DESBALANCE DETECTADO | Neurona b650bf7e en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona 0d883395 (Tox: 90, Enc: False) - 'Msg 9'
+2026-09-09 15:25:11 | WARNING  | DESBALANCE DETECTADO | Neurona 2737c094 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:25:11 | WARNING  | [FALLO DE SEGURIDAD] Intento 'LL' en neurona 2737c094 rechazado (ROTACION_INVALIDA (esperada: RR, enviada: LL)). Combo reiniciado. Salud implante: 85%
+2026-09-09 15:25:11 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:25:11 | INFO     | SERVIDOR TCP ACTIVO | Escuchando en 127.0.0.1:5055 (Modo No Bloqueante)
+2026-09-09 15:25:11 | INFO     | NUEVA CONEXIÓN UNITY | Conectado desde ('127.0.0.1', 58602)
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona b2c2d074 (Tox: 30, Enc: False) - 'Tox 30'
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona ab0bfa33 (Tox: 20, Enc: False) - 'Tox 20'
+2026-09-09 15:25:11 | INFO     | INSERT | Neurona 136fde16 (Tox: 10, Enc: False) - 'Tox 10'
+2026-09-09 15:25:11 | WARNING  | DESBALANCE DETECTADO | Neurona b2c2d074 en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:27:40 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:27:40 | INFO     | SERVIDOR TCP ACTIVO | Escuchando en 127.0.0.1:5000 (Modo No Bloqueante)
+2026-09-09 15:28:15 | INFO     | SERVIDOR DETENIDO | Recursos liberados con éxito.
+2026-09-09 15:32:29 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona 7f0261c9 (Tox: 30, Enc: True) - 'Msg 1'
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona 87150063 (Tox: 20, Enc: False) - 'Msg 2'
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona 73f42994 (Tox: 10, Enc: False) - 'Msg 3'
+2026-09-09 15:32:29 | WARNING  | DESBALANCE DETECTADO | Neurona 7f0261c9 en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:32:29 | INFO     | [HACKEO EXITOSO] Neurona 7f0261c9 reparada con LL. Combo: 1
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona ebd05917 (Tox: 40, Enc: False) - 'Msg 4'
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona 6882ba90 (Tox: 50, Enc: False) - 'Msg 5'
+2026-09-09 15:32:29 | WARNING  | DESBALANCE DETECTADO | Neurona 87150063 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:29 | INFO     | [HACKEO EXITOSO] Neurona 87150063 reparada con RR. Combo: 2
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona b19c7248 (Tox: 60, Enc: False) - 'Msg 6'
+2026-09-09 15:32:29 | WARNING  | DESBALANCE DETECTADO | Neurona ebd05917 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona 3e99716e (Tox: 70, Enc: False) - 'Msg 7'
+2026-09-09 15:32:29 | WARNING  | DESBALANCE DETECTADO | Neurona 6882ba90 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:29 | INFO     | [OVERCLOCK ACTIVADO] Racha de 3 aciertos. Jugador con ventaja temporal.
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona acea5195 (Tox: 80, Enc: False) - 'Msg 8'
+2026-09-09 15:32:29 | WARNING  | DESBALANCE DETECTADO | Neurona 7f0261c9 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:29 | INFO     | INSERT | Neurona 4e75e236 (Tox: 90, Enc: False) - 'Msg 9'
+2026-09-09 15:32:29 | WARNING  | DESBALANCE DETECTADO | Neurona 3e99716e en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:29 | WARNING  | [FALLO DE SEGURIDAD] Intento 'LL' en neurona 3e99716e rechazado (ROTACION_INVALIDA (esperada: RR, enviada: LL)). Combo reiniciado. Salud implante: 85%
+2026-09-09 15:32:29 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:32:29 | INFO     | SERVIDOR TCP ACTIVO | Escuchando en 127.0.0.1:5055 (Modo No Bloqueante)
+2026-09-09 15:32:30 | INFO     | NUEVA CONEXIÓN UNITY | Conectado desde ('127.0.0.1', 50747)
+2026-09-09 15:32:30 | INFO     | INSERT | Neurona 0946dd6e (Tox: 30, Enc: False) - 'Tox 30'
+2026-09-09 15:32:47 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 6b415bc5 (Tox: 30, Enc: True) - 'Msg 1'
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona fcdbd941 (Tox: 20, Enc: False) - 'Msg 2'
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona a40c470a (Tox: 10, Enc: False) - 'Msg 3'
+2026-09-09 15:32:47 | WARNING  | DESBALANCE DETECTADO | Neurona 6b415bc5 en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:32:47 | INFO     | [HACKEO EXITOSO] Neurona 6b415bc5 reparada con LL. Combo: 1
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 193ab89d (Tox: 40, Enc: False) - 'Msg 4'
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 5f73cce5 (Tox: 50, Enc: False) - 'Msg 5'
+2026-09-09 15:32:47 | WARNING  | DESBALANCE DETECTADO | Neurona fcdbd941 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:47 | INFO     | [HACKEO EXITOSO] Neurona fcdbd941 reparada con RR. Combo: 2
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 9ebfd17e (Tox: 60, Enc: False) - 'Msg 6'
+2026-09-09 15:32:47 | WARNING  | DESBALANCE DETECTADO | Neurona 193ab89d en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 82c9acf3 (Tox: 70, Enc: False) - 'Msg 7'
+2026-09-09 15:32:47 | WARNING  | DESBALANCE DETECTADO | Neurona 5f73cce5 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:47 | INFO     | [OVERCLOCK ACTIVADO] Racha de 3 aciertos. Jugador con ventaja temporal.
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 17d5ac21 (Tox: 80, Enc: True) - 'Msg 8'
+2026-09-09 15:32:47 | WARNING  | DESBALANCE DETECTADO | Neurona 6b415bc5 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona e55787dc (Tox: 90, Enc: False) - 'Msg 9'
+2026-09-09 15:32:47 | WARNING  | DESBALANCE DETECTADO | Neurona 82c9acf3 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:32:47 | WARNING  | [FALLO DE SEGURIDAD] Intento 'LL' en neurona 82c9acf3 rechazado (ROTACION_INVALIDA (esperada: RR, enviada: LL)). Combo reiniciado. Salud implante: 85%
+2026-09-09 15:32:47 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:32:47 | INFO     | SERVIDOR TCP ACTIVO | Escuchando en 127.0.0.1:5055 (Modo No Bloqueante)
+2026-09-09 15:32:47 | INFO     | NUEVA CONEXIÓN UNITY | Conectado desde ('127.0.0.1', 59778)
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 1b755188 (Tox: 30, Enc: False) - 'Tox 30'
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 4d8f9635 (Tox: 20, Enc: False) - 'Tox 20'
+2026-09-09 15:32:47 | INFO     | INSERT | Neurona 84908a8e (Tox: 10, Enc: False) - 'Tox 10'
+2026-09-09 15:32:47 | WARNING  | DESBALANCE DETECTADO | Neurona 1b755188 en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:32:47 | INFO     | [HACKEO EXITOSO] Neurona 1b755188 reparada con LL. Combo: 1
+2026-09-09 15:32:47 | ERROR    | Error leyendo de cliente: [WinError 10038] Se intentó realizar una operación en un elemento que no es un socket
+2026-09-09 15:32:47 | INFO     | SERVIDOR DETENIDO | Recursos liberados con éxito.
+2026-09-09 15:32:47 | INFO     | CLIENTE DESCONECTADO | Conexión cerrada y buffer liberado.
+2026-09-09 15:33:18 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona 508c78de (Tox: 30, Enc: False) - 'Msg 1'
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona 10243923 (Tox: 20, Enc: False) - 'Msg 2'
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona fc494904 (Tox: 10, Enc: False) - 'Msg 3'
+2026-09-09 15:33:18 | WARNING  | DESBALANCE DETECTADO | Neurona 508c78de en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:33:18 | INFO     | [HACKEO EXITOSO] Neurona 508c78de reparada con LL. Combo: 1
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona 6bf3aef6 (Tox: 40, Enc: False) - 'Msg 4'
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona eaf0da29 (Tox: 50, Enc: True) - 'Msg 5'
+2026-09-09 15:33:18 | WARNING  | DESBALANCE DETECTADO | Neurona 10243923 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:33:18 | INFO     | [HACKEO EXITOSO] Neurona 10243923 reparada con RR. Combo: 2
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona bad90535 (Tox: 60, Enc: True) - 'Msg 6'
+2026-09-09 15:33:18 | WARNING  | DESBALANCE DETECTADO | Neurona 6bf3aef6 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona 1a523f46 (Tox: 70, Enc: False) - 'Msg 7'
+2026-09-09 15:33:18 | WARNING  | DESBALANCE DETECTADO | Neurona eaf0da29 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:33:18 | INFO     | [OVERCLOCK ACTIVADO] Racha de 3 aciertos. Jugador con ventaja temporal.
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona 851281b0 (Tox: 80, Enc: False) - 'Msg 8'
+2026-09-09 15:33:18 | WARNING  | DESBALANCE DETECTADO | Neurona 508c78de en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:33:18 | INFO     | INSERT | Neurona d618311b (Tox: 90, Enc: False) - 'Msg 9'
+2026-09-09 15:33:18 | WARNING  | DESBALANCE DETECTADO | Neurona 1a523f46 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:33:18 | WARNING  | [FALLO DE SEGURIDAD] Intento 'LL' en neurona 1a523f46 rechazado (ROTACION_INVALIDA (esperada: RR, enviada: LL)). Combo reiniciado. Salud implante: 85%
+2026-09-09 15:33:18 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:33:18 | INFO     | SERVIDOR TCP ACTIVO | Escuchando en 127.0.0.1:5055 (Modo No Bloqueante)
+2026-09-09 15:33:18 | INFO     | NUEVA CONEXIÓN UNITY | Conectado desde ('127.0.0.1', 52856)
+2026-09-09 15:33:19 | INFO     | INSERT | Neurona c8968a85 (Tox: 30, Enc: False) - 'Tox 30'
+2026-09-09 15:33:19 | INFO     | INSERT | Neurona 69899ea6 (Tox: 20, Enc: False) - 'Tox 20'
+2026-09-09 15:33:19 | INFO     | INSERT | Neurona c435d6be (Tox: 10, Enc: True) - 'Tox 10'
+2026-09-09 15:33:19 | WARNING  | DESBALANCE DETECTADO | Neurona c8968a85 en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:33:19 | INFO     | [HACKEO EXITOSO] Neurona c8968a85 reparada con LL. Combo: 1
+2026-09-09 15:33:19 | INFO     | CLIENTE DESCONECTADO | Conexión cerrada y buffer liberado.
+2026-09-09 15:33:19 | INFO     | SERVIDOR DETENIDO | Recursos liberados con éxito.
+2026-09-09 15:33:42 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:33:42 | INFO     | SERVIDOR TCP ACTIVO | Escuchando en 127.0.0.1:5000 (Modo No Bloqueante)
+2026-09-09 15:35:05 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona cb96d7dd (Tox: 30, Enc: False) - 'Msg 1'
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona f9986780 (Tox: 20, Enc: False) - 'Msg 2'
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona 85a43b2f (Tox: 10, Enc: False) - 'Msg 3'
+2026-09-09 15:35:05 | WARNING  | DESBALANCE DETECTADO | Neurona cb96d7dd en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:35:05 | INFO     | [HACKEO EXITOSO] Neurona cb96d7dd reparada con LL. Combo: 1
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona 15309484 (Tox: 40, Enc: False) - 'Msg 4'
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona 3e27eb7a (Tox: 50, Enc: False) - 'Msg 5'
+2026-09-09 15:35:05 | WARNING  | DESBALANCE DETECTADO | Neurona f9986780 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:35:05 | INFO     | [HACKEO EXITOSO] Neurona f9986780 reparada con RR. Combo: 2
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona 81b02a60 (Tox: 60, Enc: False) - 'Msg 6'
+2026-09-09 15:35:05 | WARNING  | DESBALANCE DETECTADO | Neurona 15309484 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona 81abe913 (Tox: 70, Enc: False) - 'Msg 7'
+2026-09-09 15:35:05 | WARNING  | DESBALANCE DETECTADO | Neurona 3e27eb7a en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:35:05 | INFO     | [OVERCLOCK ACTIVADO] Racha de 3 aciertos. Jugador con ventaja temporal.
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona c0cce84f (Tox: 80, Enc: False) - 'Msg 8'
+2026-09-09 15:35:05 | WARNING  | DESBALANCE DETECTADO | Neurona cb96d7dd en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona b5b2c0f7 (Tox: 90, Enc: False) - 'Msg 9'
+2026-09-09 15:35:05 | WARNING  | DESBALANCE DETECTADO | Neurona 81abe913 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:35:05 | WARNING  | [FALLO DE SEGURIDAD] Intento 'LL' en neurona 81abe913 rechazado (ROTACION_INVALIDA (esperada: RR, enviada: LL)). Combo reiniciado. Salud implante: 85%
+2026-09-09 15:35:05 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:35:05 | INFO     | SERVIDOR TCP ACTIVO | Escuchando en 127.0.0.1:5055 (Modo No Bloqueante)
+2026-09-09 15:35:05 | INFO     | NUEVA CONEXIÓN UNITY | Conectado desde ('127.0.0.1', 54475)
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona 99e95dd6 (Tox: 30, Enc: False) - 'Tox 30'
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona 71addfd6 (Tox: 20, Enc: False) - 'Tox 20'
+2026-09-09 15:35:05 | INFO     | INSERT | Neurona b8a6a11d (Tox: 10, Enc: False) - 'Tox 10'
+2026-09-09 15:35:05 | WARNING  | DESBALANCE DETECTADO | Neurona 99e95dd6 en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:35:05 | INFO     | [HACKEO EXITOSO] Neurona 99e95dd6 reparada con LL. Combo: 1
+2026-09-09 15:35:05 | INFO     | CLIENTE DESCONECTADO | Conexión cerrada y buffer liberado.
+2026-09-09 15:35:05 | INFO     | SERVIDOR DETENIDO | Recursos liberados con éxito.
+2026-09-09 15:39:15 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona f1ed8ac7 (Tox: 30, Enc: False) - 'Msg 1'
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona 0bcf8d89 (Tox: 20, Enc: False) - 'Msg 2'
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona b8c020e9 (Tox: 10, Enc: False) - 'Msg 3'
+2026-09-09 15:39:15 | WARNING  | DESBALANCE DETECTADO | Neurona f1ed8ac7 en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:39:15 | INFO     | [HACKEO EXITOSO] Neurona f1ed8ac7 reparada con LL. Combo: 1
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona 18b827fa (Tox: 40, Enc: False) - 'Msg 4'
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona daca92ef (Tox: 50, Enc: False) - 'Msg 5'
+2026-09-09 15:39:15 | WARNING  | DESBALANCE DETECTADO | Neurona 0bcf8d89 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:39:15 | INFO     | [HACKEO EXITOSO] Neurona 0bcf8d89 reparada con RR. Combo: 2
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona ae31b1ae (Tox: 60, Enc: False) - 'Msg 6'
+2026-09-09 15:39:15 | WARNING  | DESBALANCE DETECTADO | Neurona 18b827fa en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona 5d5f3b31 (Tox: 70, Enc: False) - 'Msg 7'
+2026-09-09 15:39:15 | WARNING  | DESBALANCE DETECTADO | Neurona daca92ef en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:39:15 | INFO     | [OVERCLOCK ACTIVADO] Racha de 3 aciertos. Jugador con ventaja temporal.
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona 7b1accf6 (Tox: 80, Enc: False) - 'Msg 8'
+2026-09-09 15:39:15 | WARNING  | DESBALANCE DETECTADO | Neurona f1ed8ac7 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona 95635749 (Tox: 90, Enc: False) - 'Msg 9'
+2026-09-09 15:39:15 | WARNING  | DESBALANCE DETECTADO | Neurona 5d5f3b31 en estado PELIGRO_RR | Rotacion requerida: RR | Tiempo limite: 10s
+2026-09-09 15:39:15 | WARNING  | [FALLO DE SEGURIDAD] Intento 'LL' en neurona 5d5f3b31 rechazado (ROTACION_INVALIDA (esperada: RR, enviada: LL)). Combo reiniciado. Salud implante: 85%
+2026-09-09 15:39:15 | INFO     | SISTEMA CEREBRAL INICIALIZADO | Implante listo para procesar notificaciones.
+2026-09-09 15:39:15 | INFO     | SERVIDOR TCP ACTIVO | Escuchando en 127.0.0.1:5055 (Modo No Bloqueante)
+2026-09-09 15:39:15 | INFO     | NUEVA CONEXIÓN UNITY | Conectado desde ('127.0.0.1', 62221)
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona 869ab91d (Tox: 30, Enc: True) - 'Tox 30'
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona 0467e735 (Tox: 20, Enc: False) - 'Tox 20'
+2026-09-09 15:39:15 | INFO     | INSERT | Neurona 91fcdecc (Tox: 10, Enc: False) - 'Tox 10'
+2026-09-09 15:39:15 | WARNING  | DESBALANCE DETECTADO | Neurona 869ab91d en estado PELIGRO_LL | Rotacion requerida: LL | Tiempo limite: 10s
+2026-09-09 15:39:15 | INFO     | [HACKEO EXITOSO] Neurona 869ab91d reparada con LL. Combo: 1
+2026-09-09 15:39:15 | ERROR    | Error o desconexión en socket cliente: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+2026-09-09 15:39:15 | INFO     | SERVIDOR DETENIDO | Recursos liberados con éxito.
+2026-09-09 15:39:15 | INFO     | CLIENTE DESCONECTADO | Conexión cerrada y buffer liberado.
