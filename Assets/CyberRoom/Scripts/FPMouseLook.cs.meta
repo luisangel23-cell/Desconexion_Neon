@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7462cc085d496d7418d089f46ba4d2ff
+timeCreated: 1515450257
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263393
+  packageName: cyberpunk - Cyber Room (URP)
+  packageVersion: 1.0
+  assetPath: Assets/CyberRoom/Scripts/FPMouseLook.cs
+  uploadId: 608475

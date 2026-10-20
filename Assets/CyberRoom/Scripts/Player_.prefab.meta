@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de7b5ff411a374d438f71bcf8471affe
+timeCreated: 1515452941
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263393
+  packageName: cyberpunk - Cyber Room (URP)
+  packageVersion: 1.0
+  assetPath: Assets/CyberRoom/Scripts/Player_.prefab
+  uploadId: 608475

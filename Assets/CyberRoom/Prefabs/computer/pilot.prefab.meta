@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bac3d652955389a428dcff7bee6b7855
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263393
+  packageName: cyberpunk - Cyber Room (URP)
+  packageVersion: 1.0
+  assetPath: Assets/CyberRoom/Prefabs/computer/pilot.prefab
+  uploadId: 608475

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25c546cce5ceff24e82887c045b7fe44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263393
+  packageName: cyberpunk - Cyber Room (URP)
+  packageVersion: 1.0
+  assetPath: Assets/CyberRoom/Materials/roof.mat
+  uploadId: 608475

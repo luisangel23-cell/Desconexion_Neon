@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 567181d2d08ae9e4ca59a575ec0030a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263393
+  packageName: cyberpunk - Cyber Room (URP)
+  packageVersion: 1.0
+  assetPath: Assets/CyberRoom/Materials/black.mat
+  uploadId: 608475
