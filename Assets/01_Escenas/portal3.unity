@@ -133502,6 +133502,7 @@ MonoBehaviour:
   - {fileID: 1034938893}
   pantallaNegraUI: {fileID: 248843997}
   musicaFinal: {fileID: 747401156}
+  nombreSiguienteEscena: luna
 --- !u!4 &1857696274
 Transform:
   m_ObjectHideFlags: 0
