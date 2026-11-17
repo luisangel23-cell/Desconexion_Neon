@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 787d50429357048e194048081b713ac8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25468
+  packageName: UI Examples | uGUI Sample Project
+  packageVersion: 2.0.0
+  assetPath: Assets/Unity UI Samples/Scenes/LightingSettings.lighting
+  uploadId: 1036574

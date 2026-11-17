@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67f90ffb5d24cec046c93abb3e9616d1
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 412414
+  packageName: Curved Carousel Menu Lite
+  packageVersion: 1.0.0
+  assetPath: Assets/CurvedCarouselLite/Runtime/CodeStartAI.CarouselMenu.Lite.Runtime.asmdef
+  uploadId: 1016568

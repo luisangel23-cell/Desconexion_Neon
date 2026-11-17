@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b0eb721fa5d008e4283a54ab605d0bf4
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25468
+  packageName: UI Examples | uGUI Sample Project
+  packageVersion: 2.0.0
+  assetPath: Assets/Unity UI Samples/Textures and Sprites/RenderTexture.renderTexture
+  uploadId: 1036574

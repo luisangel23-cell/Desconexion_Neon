@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a93c012dd9ef6454fa7d140e976926f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25468
+  packageName: UI Examples | uGUI Sample Project
+  packageVersion: 2.0.0
+  assetPath: Assets/Unity UI Samples/Prefabs/SF Title.prefab
+  uploadId: 1036574

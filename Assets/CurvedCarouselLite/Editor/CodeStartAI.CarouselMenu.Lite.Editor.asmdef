@@ -1,0 +1,26 @@
+{
+    "name": "CodeStartAI.CarouselMenu.Lite.Editor",
+    "rootNamespace": "CodeStartAI.CarouselMenu.Lite.EditorTools",
+    "references": [
+        "CodeStartAI.CarouselMenu.Lite.Runtime",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.0.0",
+            "define": "CAROUSEL_LITE_INPUT_SYSTEM"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 05a81c3d5091440058129444d28322f3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25468
+  packageName: UI Examples | uGUI Sample Project
+  packageVersion: 2.0.0
+  assetPath: Assets/Unity UI Samples/Prefabs/SF Button.prefab
+  uploadId: 1036574

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 333cfd9639bb5413cab89a661e298839
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25468
+  packageName: UI Examples | uGUI Sample Project
+  packageVersion: 2.0.0
+  assetPath: Assets/Unity UI Samples/Scenes/Draggable PanelSettings.lighting
+  uploadId: 1036574

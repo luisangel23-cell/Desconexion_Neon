@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07503510a420e4169a52cac06244540a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25468
+  packageName: UI Examples | uGUI Sample Project
+  packageVersion: 2.0.0
+  assetPath: Assets/Unity UI Samples/Scenes/Drag And DropSettings.lighting
+  uploadId: 1036574

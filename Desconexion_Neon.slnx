@@ -1,4 +1,11 @@
 ﻿<Solution>
-  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="PG.Shared.csproj" />
+  <Project Path="PG.GoreSimulator.csproj" />
+  <Project Path="PG.Shared.Editor.csproj" />
+  <Project Path="CodeStartAI.CarouselMenu.Lite.Runtime.csproj" />
+  <Project Path="PG.GoreSimulator.Editor.csproj" />
+  <Project Path="CodeStartAI.CarouselMenu.Lite.Editor.csproj" />
+  <Project Path="CodeStartAI.CarouselMenu.Lite.Samples.csproj" />
 </Solution>

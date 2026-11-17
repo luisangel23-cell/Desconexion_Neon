@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f41ffa0211fcd095a54ec2886fe84373
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 412414
+  packageName: Curved Carousel Menu Lite
+  packageVersion: 1.0.0
+  assetPath: Assets/CurvedCarouselLite/Demo/Scripts/CarouselLiteDemo.cs
+  uploadId: 1016568

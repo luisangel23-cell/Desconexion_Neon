@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c9ad5288ba1d4a20aa2ced0c3d8c934
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25468
+  packageName: UI Examples | uGUI Sample Project
+  packageVersion: 2.0.0
+  assetPath: Assets/Unity UI Samples/Materials/UI-Lit-Detail-URP.shader
+  uploadId: 1036574
